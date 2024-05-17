@@ -1,4 +1,4 @@
-# Setup
+# Set-up
 
 Initial setup commands
 
