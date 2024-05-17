@@ -18,7 +18,6 @@ class Director(models.Model):
     name = models.CharField(max_length=500)
     birth_year = models.PositiveSmallIntegerField(blank=True, null=True)
     description = models.TextField(blank=True, null=True)
-    main_picture = models.ImageField()
 
     def __str__(self):
         return f'{self.name}'

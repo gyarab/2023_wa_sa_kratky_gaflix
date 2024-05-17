@@ -17,7 +17,6 @@ class Migration(migrations.Migration):
                 ('name', models.CharField(max_length=500)),
                 ('birth_year', models.PositiveSmallIntegerField(blank=True, null=True)),
                 ('description', models.TextField(blank=True, null=True)),
-                ('main_picture', models.ImageField(upload_to='')),
             ],
             options={
                 'verbose_name': 'Director',
