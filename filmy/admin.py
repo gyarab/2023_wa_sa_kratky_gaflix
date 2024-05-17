@@ -1,7 +1,10 @@
 from django.contrib import admin
-from filmy.models import Movie
 
-class MovieAdmin(admin.ModelAdmin):
-    pass
+from filmy.models import Movie, Director, Genre
 
-admin.site.register(Movie, ModelAdmin)
+admin.site.register(Movie)
+admin.site.register(Director)
+admin.site.register(Genre)
+admin.site.register(Actor)
+
+# Register your models here.
