@@ -33,5 +33,12 @@
   "fields": {
     "name": "acacs"
   }
+},
+{
+  "model": "filmy.genre",
+  "pk": 6,
+  "fields": {
+    "name": "asdasdsadsaasdasd"
+  }
 }
 ]

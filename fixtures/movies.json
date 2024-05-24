@@ -7,7 +7,14 @@
     "year": 859,
     "footage": 89649,
     "description": "ssdccqcs",
-    "main_picture": ""
+    "main_picture": "",
+    "director": 3,
+    "actors": [
+      3
+    ],
+    "genres": [
+      6
+    ]
   }
 },
 {
@@ -18,7 +25,10 @@
     "year": 1161,
     "footage": 14616,
     "description": "ASC65AC",
-    "main_picture": ""
+    "main_picture": "",
+    "director": null,
+    "actors": [],
+    "genres": []
   }
 },
 {
@@ -29,7 +39,10 @@
     "year": 564,
     "footage": 654,
     "description": "DSFCSVC",
-    "main_picture": ""
+    "main_picture": "",
+    "director": 3,
+    "actors": [],
+    "genres": []
   }
 },
 {
@@ -40,7 +53,14 @@
     "year": 654,
     "footage": 56,
     "description": "SDVSDV",
-    "main_picture": ""
+    "main_picture": "",
+    "director": 2,
+    "actors": [
+      3
+    ],
+    "genres": [
+      5
+    ]
   }
 },
 {
@@ -51,7 +71,33 @@
     "year": 65,
     "footage": 654,
     "description": "6DCWDCWDC",
-    "main_picture": ""
+    "main_picture": "",
+    "director": null,
+    "actors": [],
+    "genres": [
+      3
+    ]
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 6,
+  "fields": {
+    "name": "asdasd",
+    "year": 12111,
+    "footage": 542,
+    "description": "sdasd",
+    "main_picture": "",
+    "director": 1,
+    "actors": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      1,
+      2
+    ]
   }
 }
 ]
