@@ -1,0 +1,57 @@
+[
+{
+  "model": "filmy.movie",
+  "pk": 1,
+  "fields": {
+    "name": "acsacs",
+    "year": 859,
+    "footage": 89649,
+    "description": "ssdccqcs",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 2,
+  "fields": {
+    "name": "acaca",
+    "year": 1161,
+    "footage": 14616,
+    "description": "ASC65AC",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 3,
+  "fields": {
+    "name": "ASCACS",
+    "year": 564,
+    "footage": 654,
+    "description": "DSFCSVC",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 4,
+  "fields": {
+    "name": "SDCSD6VC",
+    "year": 654,
+    "footage": 56,
+    "description": "SDVSDV",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 5,
+  "fields": {
+    "name": "WDCWEC",
+    "year": 65,
+    "footage": 654,
+    "description": "6DCWDCWDC",
+    "main_picture": ""
+  }
+}
+]
