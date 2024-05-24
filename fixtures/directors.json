@@ -1,0 +1,52 @@
+[
+{
+  "model": "filmy.director",
+  "pk": 1,
+  "fields": {
+    "name": "sadasdasda",
+    "birth_year": 1242,
+    "description": "sccaxcasccsa",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 2,
+  "fields": {
+    "name": "acsasc",
+    "birth_year": 10,
+    "description": "acacasc",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 3,
+  "fields": {
+    "name": "acasc",
+    "birth_year": 11,
+    "description": "dsafsdvc",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 4,
+  "fields": {
+    "name": "asdads",
+    "birth_year": 100,
+    "description": "ascascqsac",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 5,
+  "fields": {
+    "name": "acsacsa",
+    "birth_year": 654,
+    "description": "sdfs",
+    "main_picture": ""
+  }
+}
+]
