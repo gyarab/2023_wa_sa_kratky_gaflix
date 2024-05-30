@@ -13,15 +13,27 @@ class MovieAdmin(admin.ModelAdmin):
 
 
 class DirectorAdmin(admin.ModelAdmin):
-    pass
+    
+    list_display = ["id", "name", "birth_year", "description", "main_picture"]
+    list_display_links = ["id", "name", "birth_year"]
+    search_fields = ["=id", "name", "birth_year"]
+    list_editable = ["name", "description"]
 
 
 class GenreAdmin(admin.ModelAdmin):
-    pass
+    
+    list_display = ["id", "name"]
+    list_display_links = ["id", "name"]
+    search_fields = ["=id", "name"]
+    list_editable = ["name"]
 
 
 class ActorAdmin(admin.ModelAdmin):
-    pass
+    
+    list_display = ["id", "name", "birth_year", "description", "main_picture"]
+    list_display_links = ["id", "name", "birth_year"]
+    search_fields = ["=id", "name", "birth_year"]
+    list_editable = ["name", "description",  "main_picture"]
 
 
 admin.site.register(Movie, MovieAdmin)
